@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Bsofian1/shop-cart/static/css/main.7f576aee.chunk.css",
-    "main.js": "/Bsofian1/shop-cart/static/js/main.393e4e41.chunk.js",
-    "main.js.map": "/Bsofian1/shop-cart/static/js/main.393e4e41.chunk.js.map",
-    "runtime-main.js": "/Bsofian1/shop-cart/static/js/runtime-main.75e792bb.js",
-    "runtime-main.js.map": "/Bsofian1/shop-cart/static/js/runtime-main.75e792bb.js.map",
-    "static/js/2.66aad27b.chunk.js": "/Bsofian1/shop-cart/static/js/2.66aad27b.chunk.js",
-    "static/js/2.66aad27b.chunk.js.map": "/Bsofian1/shop-cart/static/js/2.66aad27b.chunk.js.map",
-    "index.html": "/Bsofian1/shop-cart/index.html",
-    "static/css/main.7f576aee.chunk.css.map": "/Bsofian1/shop-cart/static/css/main.7f576aee.chunk.css.map",
-    "static/js/2.66aad27b.chunk.js.LICENSE.txt": "/Bsofian1/shop-cart/static/js/2.66aad27b.chunk.js.LICENSE.txt"
+    "main.css": "/shop-cart/static/css/main.7f576aee.chunk.css",
+    "main.js": "/shop-cart/static/js/main.393e4e41.chunk.js",
+    "main.js.map": "/shop-cart/static/js/main.393e4e41.chunk.js.map",
+    "runtime-main.js": "/shop-cart/static/js/runtime-main.6713989d.js",
+    "runtime-main.js.map": "/shop-cart/static/js/runtime-main.6713989d.js.map",
+    "static/js/2.5c4a9236.chunk.js": "/shop-cart/static/js/2.5c4a9236.chunk.js",
+    "static/js/2.5c4a9236.chunk.js.map": "/shop-cart/static/js/2.5c4a9236.chunk.js.map",
+    "index.html": "/shop-cart/index.html",
+    "static/css/main.7f576aee.chunk.css.map": "/shop-cart/static/css/main.7f576aee.chunk.css.map",
+    "static/js/2.5c4a9236.chunk.js.LICENSE.txt": "/shop-cart/static/js/2.5c4a9236.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.75e792bb.js",
-    "static/js/2.66aad27b.chunk.js",
+    "static/js/runtime-main.6713989d.js",
+    "static/js/2.5c4a9236.chunk.js",
     "static/css/main.7f576aee.chunk.css",
     "static/js/main.393e4e41.chunk.js"
   ]
